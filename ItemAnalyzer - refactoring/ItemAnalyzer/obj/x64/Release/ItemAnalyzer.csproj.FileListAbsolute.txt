@@ -1,0 +1,16 @@
+C:\Users\kaja\Documents\Visual Studio 2019\ItemAnalyzer\ItemAnalyzer - refactoring\ItemAnalyzer\bin\x64\Release\ItemAnalyzer.exe
+C:\Users\kaja\Documents\Visual Studio 2019\ItemAnalyzer\ItemAnalyzer - refactoring\ItemAnalyzer\bin\x64\Release\ItemAnalyzer.pdb
+C:\Users\kaja\Documents\Visual Studio 2019\ItemAnalyzer\ItemAnalyzer - refactoring\ItemAnalyzer\bin\x64\Release\Newtonsoft.Json.dll
+C:\Users\kaja\Documents\Visual Studio 2019\ItemAnalyzer\ItemAnalyzer - refactoring\ItemAnalyzer\bin\x64\Release\Newtonsoft.Json.xml
+C:\Users\kaja\Documents\Visual Studio 2019\ItemAnalyzer\ItemAnalyzer - refactoring\ItemAnalyzer\obj\x64\Release\ItemAnalyzer.Window.ColorWindow.resources
+C:\Users\kaja\Documents\Visual Studio 2019\ItemAnalyzer\ItemAnalyzer - refactoring\ItemAnalyzer\obj\x64\Release\ItemAnalyzer.HelpWindow.resources
+C:\Users\kaja\Documents\Visual Studio 2019\ItemAnalyzer\ItemAnalyzer - refactoring\ItemAnalyzer\obj\x64\Release\ItemAnalyzer.MainWindow.resources
+C:\Users\kaja\Documents\Visual Studio 2019\ItemAnalyzer\ItemAnalyzer - refactoring\ItemAnalyzer\obj\x64\Release\ItemAnalyzer.ManagerWindow.resources
+C:\Users\kaja\Documents\Visual Studio 2019\ItemAnalyzer\ItemAnalyzer - refactoring\ItemAnalyzer\obj\x64\Release\ItemAnalyzer.Properties.Resources.resources
+C:\Users\kaja\Documents\Visual Studio 2019\ItemAnalyzer\ItemAnalyzer - refactoring\ItemAnalyzer\obj\x64\Release\ItemAnalyzer.ShopInfo.resources
+C:\Users\kaja\Documents\Visual Studio 2019\ItemAnalyzer\ItemAnalyzer - refactoring\ItemAnalyzer\obj\x64\Release\ItemAnalyzer.csproj.GenerateResource.cache
+C:\Users\kaja\Documents\Visual Studio 2019\ItemAnalyzer\ItemAnalyzer - refactoring\ItemAnalyzer\obj\x64\Release\ItemAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\kaja\Documents\Visual Studio 2019\ItemAnalyzer\ItemAnalyzer - refactoring\ItemAnalyzer\obj\x64\Release\ItemAnalyzer.csproj.CopyComplete
+C:\Users\kaja\Documents\Visual Studio 2019\ItemAnalyzer\ItemAnalyzer - refactoring\ItemAnalyzer\obj\x64\Release\ItemAnalyzer.exe
+C:\Users\kaja\Documents\Visual Studio 2019\ItemAnalyzer\ItemAnalyzer - refactoring\ItemAnalyzer\obj\x64\Release\ItemAnalyzer.pdb
+C:\Users\kaja\Documents\Visual Studio 2019\ItemAnalyzer\ItemAnalyzer - refactoring\ItemAnalyzer\obj\x64\Release\ItemAnalyzer.csprojAssemblyReference.cache

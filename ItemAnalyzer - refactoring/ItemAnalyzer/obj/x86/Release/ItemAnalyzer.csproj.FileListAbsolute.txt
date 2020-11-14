@@ -1,0 +1,1 @@
+C:\Users\kaja\Documents\Visual Studio 2019\ItemAnalyzer\ItemAnalyzer - refactoring\ItemAnalyzer\obj\x86\Release\ItemAnalyzer.csprojAssemblyReference.cache

@@ -1,0 +1,20 @@
+﻿[
+  {
+    "Name": "",
+    "Price": 1.0,
+    "Amount": 1.0,
+    "ProductSpeed": 100,
+    "ProductTime": 1,
+    "Royality": 0,
+    "MaterialList": [],
+z    "Analyze": {
+      "Profit": 1.0,
+      "ProfitPer": 100.0,
+      "Cost": 0.0,
+      "CostPer": 0.0,
+      "ProfitPerItem": 1.0,
+      "CostPerItem": 0.0,
+      "PerTime": 1.0
+    }
+  }
+]

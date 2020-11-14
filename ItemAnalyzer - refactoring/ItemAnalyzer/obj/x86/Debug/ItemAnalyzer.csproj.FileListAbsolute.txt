@@ -1,0 +1,16 @@
+C:\Users\kaja\Documents\Visual Studio 2019\ItemAnalyzer\ItemAnalyzer - refactoring\ItemAnalyzer\obj\x86\Debug\ItemAnalyzer.csprojAssemblyReference.cache
+C:\Users\kaja\Documents\Visual Studio 2019\ItemAnalyzer\ItemAnalyzer - refactoring\ItemAnalyzer\obj\x86\Debug\ItemAnalyzer.Window.ColorWindow.resources
+C:\Users\kaja\Documents\Visual Studio 2019\ItemAnalyzer\ItemAnalyzer - refactoring\ItemAnalyzer\obj\x86\Debug\ItemAnalyzer.HelpWindow.resources
+C:\Users\kaja\Documents\Visual Studio 2019\ItemAnalyzer\ItemAnalyzer - refactoring\ItemAnalyzer\obj\x86\Debug\ItemAnalyzer.MainWindow.resources
+C:\Users\kaja\Documents\Visual Studio 2019\ItemAnalyzer\ItemAnalyzer - refactoring\ItemAnalyzer\obj\x86\Debug\ItemAnalyzer.ManagerWindow.resources
+C:\Users\kaja\Documents\Visual Studio 2019\ItemAnalyzer\ItemAnalyzer - refactoring\ItemAnalyzer\obj\x86\Debug\ItemAnalyzer.Properties.Resources.resources
+C:\Users\kaja\Documents\Visual Studio 2019\ItemAnalyzer\ItemAnalyzer - refactoring\ItemAnalyzer\obj\x86\Debug\ItemAnalyzer.ShopInfo.resources
+C:\Users\kaja\Documents\Visual Studio 2019\ItemAnalyzer\ItemAnalyzer - refactoring\ItemAnalyzer\obj\x86\Debug\ItemAnalyzer.csproj.GenerateResource.cache
+C:\Users\kaja\Documents\Visual Studio 2019\ItemAnalyzer\ItemAnalyzer - refactoring\ItemAnalyzer\obj\x86\Debug\ItemAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\kaja\Documents\Visual Studio 2019\ItemAnalyzer\ItemAnalyzer - refactoring\ItemAnalyzer\bin\Debug\ItemAnalyzer.exe
+C:\Users\kaja\Documents\Visual Studio 2019\ItemAnalyzer\ItemAnalyzer - refactoring\ItemAnalyzer\bin\Debug\ItemAnalyzer.pdb
+C:\Users\kaja\Documents\Visual Studio 2019\ItemAnalyzer\ItemAnalyzer - refactoring\ItemAnalyzer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kaja\Documents\Visual Studio 2019\ItemAnalyzer\ItemAnalyzer - refactoring\ItemAnalyzer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kaja\Documents\Visual Studio 2019\ItemAnalyzer\ItemAnalyzer - refactoring\ItemAnalyzer\obj\x86\Debug\ItemAnalyzer.csproj.CopyComplete
+C:\Users\kaja\Documents\Visual Studio 2019\ItemAnalyzer\ItemAnalyzer - refactoring\ItemAnalyzer\obj\x86\Debug\ItemAnalyzer.exe
+C:\Users\kaja\Documents\Visual Studio 2019\ItemAnalyzer\ItemAnalyzer - refactoring\ItemAnalyzer\obj\x86\Debug\ItemAnalyzer.pdb
