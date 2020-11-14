@@ -5,6 +5,7 @@ SOLDOUT2 Calclatorをダウンロードいただき、ありがとうござい�
 
 管理人は(株)冠者です。(Twitter@bluecity_kaja)
 
+ダウンロード方法：Releaseフォルダをダウンロードしてください。
 ItemAnalyzer.exeで起動します。
 
 以下仕様です。
