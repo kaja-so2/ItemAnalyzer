@@ -1,5 +1,4 @@
-# ItemAnalyzer
-SOLDOUT2 商品解析ツールです。
+# SOLDOUT2 Calclatorです。
 
 SOLDOUT2 Calclatorをダウンロードいただき、ありがとうございます。
 
@@ -7,9 +6,9 @@ SOLDOUT2 Calclatorをダウンロードいただき、ありがとうござい�
 
 ダウンロード方法：Releaseフォルダをダウンロードしてください。
 ItemAnalyzer.exeで起動します。
+お好きな名前に変えて実行してくださいな･*･:≡(　ε:)
 
 以下仕様です。
-
 開いたファイルのデータが変更保存できる場合は、「*」がファイル名の後ろに出る。
 
 色の変更
